@@ -11,6 +11,16 @@
 .svn/
 .swiftpm/
 migrate_working_dir/
+.vscode/
+android/
+ios/
+linux/
+macos/
+web/
+windows/
+.metadata
+analysis_options.yaml
+pubspec.lock
 
 # IntelliJ related
 *.iml
